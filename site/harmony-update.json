@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "platform": "harmonyos",
   "channel": "prerelease",
-  "versionCode": 49,
-  "versionName": "0.1.48",
-  "publishedAt": "2026-11-21T17:28:43Z",
-  "releaseUrl": "https://github.com/linjianwuovo/andaxin-harmony/releases/tag/v0.1.48",
+  "versionCode": 50,
+  "versionName": "0.1.49",
+  "publishedAt": "2026-11-21T17:44:07Z",
+  "releaseUrl": "https://github.com/linjianwuovo/andaxin-harmony/releases/tag/v0.1.49",
   "signedHap": {
-    "name": "andaxin-harmony-0.1.48-signed.hap",
-    "url": "https://github.com/linjianwuovo/andaxin-harmony/releases/download/v0.1.48/andaxin-harmony-0.1.48-signed.hap",
-    "size": 2537480,
-    "sha256": "eeaac9faac73fe181e21d4f7b9aa8c62e9fbde7c6e356929d8ef7524ed459373"
+    "name": "andaxin-harmony-0.1.49-signed.hap",
+    "url": "https://github.com/linjianwuovo/andaxin-harmony/releases/download/v0.1.49/andaxin-harmony-0.1.49-signed.hap",
+    "size": 2537356,
+    "sha256": "4d6b97fddd73d7787a3e32e26ce2bc5b0dfc50a4495e5cca25aec8147107bfc7"
   }
 }
